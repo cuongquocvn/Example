@@ -12,3 +12,10 @@ C:\Users\quocnvc\Desktop\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
 C:\Users\quocnvc\Desktop\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
 C:\Users\quocnvc\Desktop\Bank\obj\Debug\Bank.exe
 C:\Users\quocnvc\Desktop\Bank\obj\Debug\Bank.pdb
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\bin\Debug\Bank.exe.config
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\bin\Debug\Bank.exe
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\bin\Debug\Bank.pdb
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Debug\Bank.exe
+C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Debug\Bank.pdb
