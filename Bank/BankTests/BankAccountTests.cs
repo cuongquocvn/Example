@@ -13,6 +13,53 @@ namespace BankTests
         }
 
         [TestMethod]
+        public void TestMethod2()
+        {
+        }
+
+        [TestMethod]
+        public void TestMethod3()
+        {
+        }
+
+        [TestMethod]
+        public void TestMethod4()
+        {
+        }
+
+        [TestMethod]
+        public void TestMethod5()
+        {
+        }
+
+        [TestMethod]
+        public void TestMethod6()
+        {
+        }
+
+        [TestMethod]
+        public void TestMethod7()
+        {
+        }
+
+
+        [TestMethod]
+        public void TestMethod8()
+        {
+        }
+
+
+        [TestMethod]
+        public void TestMethod9()
+        {
+        }
+
+        [TestMethod]
+        public void TestMethod10()
+        {
+        }
+
+        [TestMethod]
         public void Debit_WithValidAmount_UpdatesBalance()
         {
             // Arrange
