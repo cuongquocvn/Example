@@ -1,5 +1,0 @@
-C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Release\Bank.csprojAssemblyReference.cache
-C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Release\Bank.csproj.CoreCompileInputs.cache
-C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Release\Bank.exe.config
-C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Release\Bank.exe
-C:\Users\quocnvc\Documents\GitHub\Example\Bank\obj\Release\Bank.pdb
